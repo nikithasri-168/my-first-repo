@@ -1,5 +1,5 @@
-Apple
-Banyan
-Cedar
+Alder
+Baobab
+Cherry
 Dogwood
 Elm
